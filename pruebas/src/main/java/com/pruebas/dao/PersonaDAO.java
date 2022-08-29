@@ -7,3 +7,4 @@ import com.pruebas.model.Persona;
 public interface PersonaDAO extends JpaRepository <Persona, Integer> {
 
 }
+
